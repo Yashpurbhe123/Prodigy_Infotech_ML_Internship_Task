@@ -8,5 +8,5 @@ Prodigy Infotech Internship Machine Learning all Task's
 <br>**Dataset:-** https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python</br>
 
 
-**Task 4:**Develop a hand gesture recognition model that can accurately identify and classify different hand gestures from image or video data, enabling intuitive human-computer interaction and gesture- based control systems.
+**Task 4:** Develop a hand gesture recognition model that can accurately identify and classify different hand gestures from image or video data, enabling intuitive human-computer interaction and gesture- based control systems.
 <br>**Dataset:-** https://www.kaggle.com/gti-upm/leapgestrecog</br>
